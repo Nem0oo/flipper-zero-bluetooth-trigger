@@ -1,7 +1,3 @@
-# flipper-zero_ios-bluetooth-trigger
-
-A Bluetooth trigger / intervalometer for the flipper zero
-
 # Flipper Zero — Bluetooth Camera Trigger
 
 A Bluetooth intervalometer for the Flipper Zero, built to trigger an iPhone/Android camera remotely with a configurable number of shots and interval between them.
@@ -13,7 +9,7 @@ A Bluetooth intervalometer for the Flipper Zero, built to trigger an iPhone/Andr
 
 ## Why
 
-I wanted to shoot Milky Way timelapses with my iPhone. Those triggers exists for DSLR but I didn't find any for iPhone — the Flipper Zero was sitting on my desk and I wanted to learn.
+I wanted to shoot Milky Way timelapses with my iPhone. Those triggers exist for DSLR but I didn't find any for iPhone — the Flipper Zero was sitting on my desk and I wanted to learn.
 
 ## What it does
 
