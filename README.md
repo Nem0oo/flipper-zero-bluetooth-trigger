@@ -6,8 +6,10 @@ A Bluetooth trigger / intervalometer for the flipper zero
 
 A Bluetooth intervalometer for the Flipper Zero, built to trigger an iPhone/Android camera remotely with a configurable number of shots and interval between them.
 
-![Primary screen](f0_primary.jpg)
-![Waiting for bluetooth](f0_wait_bt.jpg)
+<p align="center">
+  <img src="f0_primary.jpg" width="45%"/>
+  <img src="f0_wait_bt.jpg" width="45%"/>
+</p>
 
 ## Why
 
